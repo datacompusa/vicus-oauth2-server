@@ -1,11 +1,11 @@
 {
-    "name": "jasongrimes/silex-oauth2-server",
+    "name": "datacompusa/silex-oauth2-server",
     "description": "A Silex service provider for implementing an OAuth 2 server, using the league/oauth2-server library.",
     "license": "MIT",
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/jasongrimes/silex-oauth2-server"
+            "url": "https://github.com/datacompusa/vicus-oauth2-server"
         }
     ],
     "require": {
